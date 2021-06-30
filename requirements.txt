@@ -11,3 +11,4 @@ scikit-learn==0.24.2
 tensorflow==1.15
 plotly>=5.1.0
 os
+python>=3.9.0
