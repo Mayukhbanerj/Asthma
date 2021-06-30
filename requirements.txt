@@ -1,6 +1,5 @@
 pandas>=1.2.5
 numpy>=1.16.0
-os
 joblib>=1.0.1  
 hashlib>=3.6
 seaborn>=9.1
